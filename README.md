@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jesushs2015
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jesús Hernández Sánchez
+- 👀 I’m interested in Big Data
+- 🌱 I’m currently learning Data Mining
+- 💞️ I’m looking to collaborate on UPAEP, IBERO, UDLAP and TecNM
+- 📫 How to reach me Tux
 
 <!---
 jesushs2015/jesushs2015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
